@@ -1,1 +1,1 @@
-# Bankruptcy-Competition
+Bankruptcy prediction
