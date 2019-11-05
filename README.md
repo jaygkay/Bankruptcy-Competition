@@ -2,6 +2,6 @@
 
 ### Ranked second place with score of 92/100
 
-Given bankruptcy dataset, Logistic Regresssion is used to predict if the uses go bankrupted or not.
+Given bankruptcy dataset, Logistic Regresssion is used to predict if the clients get bankrupted.
 
  
