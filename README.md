@@ -1,4 +1,4 @@
-# ScriptedIn's Bankruptcy prediction
+# ScriptedIn's Bankruptcy Prediction Competition
 
 ### Ranked second place with score of 92/100
 
